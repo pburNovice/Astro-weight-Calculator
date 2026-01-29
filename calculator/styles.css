@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(187, 146, 33, 0.473);
+    color:rgba(236, 18, 36, 0.822);
+    font-family: cursive;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+.input-group{
+    margin-bottom: 20px;
+}
+input {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid white;
+  margin-right: 5px;
+  font-style: italic;
+  background-color: aqua;
+  color:black;
+  }
+  
+select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-right: 5px;
+    font-style: italic;
+    background-color:aqua;
+    color:black;
+}
+button{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-right: 5px;
+    font-style: italic;
+    background-color: aqua;
+    color: black;
+}
+#output {
+    font-size: 1rem;
+    margin-top: 8px;
+}
+
+
